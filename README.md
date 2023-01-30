@@ -1,2 +1,2 @@
 # Web
-Currency converter DSC project , made using HTML, CSS ,JS.
+Currency converter mini project , made using HTML, CSS ,JS.
